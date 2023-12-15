@@ -108,6 +108,7 @@ nav{
     justify-content: space-around;
     align-items: start;
     flex-wrap: wrap;
+    padding:5px;
   }
   .flexbox2-item{
     padding: 5px;
@@ -149,6 +150,7 @@ nav{
     align-items: start;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding:5px;
   }
   .flexbox3-item img , .flexbox2-item img{
     width:60%;
